@@ -1,0 +1,4 @@
+python-jsonschema source: no-debian-changes
+python-jsonschema source: source-contains-prebuilt-windows-binary
+python-jsonschema source: source-is-missing
+python-jsonschema source: source-package-encodes-python-version
