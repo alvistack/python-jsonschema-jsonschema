@@ -1,0 +1,4 @@
+python3-jsonschema: copyright-without-copyright-notice
+python3-jsonschema: initial-upload-closes-no-bugs
+python3-jsonschema: no-manual-page
+python3-jsonschema: zero-byte-file-in-doc-directory

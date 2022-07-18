@@ -1,0 +1,5 @@
+python-jsonschema (100:4.6.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pallets/jsonschema/releases/tag/4.6.2
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Fri, 08 Jul 2022 08:16:40 +0800
