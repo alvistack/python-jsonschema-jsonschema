@@ -1,0 +1,5 @@
+python-jsonschema (100:4.15.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/python-jsonschema/jsonschema/releases/tag/v4.15.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Wed, 31 Aug 2022 20:24:35 +0800
